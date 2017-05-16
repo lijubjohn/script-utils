@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# script for opening multiple ssh session on new terminal (MAC OSX) tabs
+
 # usage: init kafka_brokers 
 
 new_tab() {
